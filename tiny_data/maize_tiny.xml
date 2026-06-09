@@ -1,0 +1,5703 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<object>
+			<ID>Grainset_maize_2020-10-26-23-19-48_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-09-19</time>
+			<size>30</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>133</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-02-19-21-13_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2016-08-24</time>
+			<size>73</size>
+			<DU_grain>AP</DU_grain>
+			<weight>336</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-06-30-20-49-31_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-01-06</time>
+			<size>88</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>384</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-10-08-28-42_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-02-11</time>
+			<size>81</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>355</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-08-21-12-52-35_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-07-08</time>
+			<size>84</size>
+			<DU_grain>SD</DU_grain>
+			<weight>373</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-09-05-19-42-05_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-10-04</time>
+			<size>66</size>
+			<DU_grain>MY</DU_grain>
+			<weight>294</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-13-14-13-36_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-09-01</time>
+			<size>61</size>
+			<DU_grain>MY</DU_grain>
+			<weight>272</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-09-03-21-11-27_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-05-26</time>
+			<size>79</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>345</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-08-31-22-32-45_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-12-20</time>
+			<size>58</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>256</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-08-17-20-50-06_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-05-02</time>
+			<size>4</size>
+			<DU_grain>IM</DU_grain>
+			<weight>12</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-02-26-22-22-58_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2016-05-17</time>
+			<size>87</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>380</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-02-17-10-00_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-09-27</time>
+			<size>71</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>309</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-10-18-13-26-42_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2019-11-05</time>
+			<size>71</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>309</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-09-09-15-34-31_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2016-02-06</time>
+			<size>72</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>315</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-09-28-20-40-14_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-02-26</time>
+			<size>5</size>
+			<DU_grain>IM</DU_grain>
+			<weight>14</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-06-12-13-48-57_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2021-11-21</time>
+			<size>72</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>313</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-07-14-20-17-02_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2019-10-31</time>
+			<size>48</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>211</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-10-06-22-57-56_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-08-29</time>
+			<size>59</size>
+			<DU_grain>AP</DU_grain>
+			<weight>269</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-11-10-12-22-23_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-12-18</time>
+			<size>82</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>358</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-17-10-17-51_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-10-18</time>
+			<size>72</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>316</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-02-25-08-20-36_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-08-10</time>
+			<size>65</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>285</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-17-21-03-53_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-03-29</time>
+			<size>83</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>362</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-05-08-11-17-27_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2019-07-05</time>
+			<size>65</size>
+			<DU_grain>MY</DU_grain>
+			<weight>289</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-10-18-17-15-41_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-01-06</time>
+			<size>62</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>272</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-02-27-09-46-53_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2016-11-05</time>
+			<size>33</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>148</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-29-15-20-40_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-01-06</time>
+			<size>91</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>398</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-10-13-21-29-04_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-04-18</time>
+			<size>91</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>396</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-27-19-55-54_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-10-05</time>
+			<size>65</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>288</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-09-09-15-19-33_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2021-04-13</time>
+			<size>56</size>
+			<DU_grain>SD</DU_grain>
+			<weight>253</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-01-18-24-31_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2021-03-26</time>
+			<size>57</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>248</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-12-23-14-16-53_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-10-09</time>
+			<size>58</size>
+			<DU_grain>HD</DU_grain>
+			<weight>249</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-05-12-17-49-46_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2016-06-28</time>
+			<size>23</size>
+			<DU_grain>BN</DU_grain>
+			<weight>70</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-10-13-19-51-46_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-05-19</time>
+			<size>56</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>244</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-04-20-14-30-06_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2016-09-30</time>
+			<size>76</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>332</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-09-26-09-24-36_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-11-09</time>
+			<size>4</size>
+			<DU_grain>IM</DU_grain>
+			<weight>12</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-02-19-22-33-36_8_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-11-06</time>
+			<size>28</size>
+			<DU_grain>BN</DU_grain>
+			<weight>85</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-12-12-12-27-36_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-03-29</time>
+			<size>66</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>292</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-12-11-18-26-54_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-06-10</time>
+			<size>35</size>
+			<DU_grain>BN</DU_grain>
+			<weight>104</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-09-17-21-55-36_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-12-28</time>
+			<size>52</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>228</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-09-23-09-35-22_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-06-03</time>
+			<size>15</size>
+			<DU_grain>IM</DU_grain>
+			<weight>48</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-05-03-13-19-06_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-11-21</time>
+			<size>72</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>316</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-05-05-17-17-06_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-11-29</time>
+			<size>65</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>282</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-04-15-17-42-46_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-09-23</time>
+			<size>39</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>162</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-05-12-12-53-55_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2016-04-14</time>
+			<size>7</size>
+			<DU_grain>IM</DU_grain>
+			<weight>20</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-09-28-10-28-40_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-04-17</time>
+			<size>25</size>
+			<DU_grain>BN</DU_grain>
+			<weight>75</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-24-20-12-07_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2019-07-22</time>
+			<size>8</size>
+			<DU_grain>IM</DU_grain>
+			<weight>25</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-07-29-16-40-06_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2022-02-11</time>
+			<size>5</size>
+			<DU_grain>IM</DU_grain>
+			<weight>15</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-04-14-14-22-14_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-11-25</time>
+			<size>86</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>377</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-04-16-19-29-22_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-11-01</time>
+			<size>51</size>
+			<DU_grain>HD</DU_grain>
+			<weight>219</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-02-08-18-05-05_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-01-27</time>
+			<size>70</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>310</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-15-16-49-30_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2016-12-05</time>
+			<size>5</size>
+			<DU_grain>IM</DU_grain>
+			<weight>15</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-29-15-07-44_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-02-11</time>
+			<size>75</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>327</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-12-13-22-14-25_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-07-24</time>
+			<size>65</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>285</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-26-23-43-05_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-10-22</time>
+			<size>56</size>
+			<DU_grain>SD</DU_grain>
+			<weight>251</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-31-17-38-35_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-08-10</time>
+			<size>4</size>
+			<DU_grain>IM</DU_grain>
+			<weight>11</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-05-09-08-16-39_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2016-05-14</time>
+			<size>8</size>
+			<DU_grain>IM</DU_grain>
+			<weight>24</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-06-18-14-07_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2021-02-10</time>
+			<size>67</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>294</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-10-22-46-56_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-10-15</time>
+			<size>98</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>428</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-10-09-16-51-28_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2021-06-27</time>
+			<size>10</size>
+			<DU_grain>IM</DU_grain>
+			<weight>31</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-05-10-12-28-54_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2016-08-03</time>
+			<size>49</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>212</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-09-28-20-34-35_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2017-08-10</time>
+			<size>66</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>273</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-27-19-55-54_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-03-29</time>
+			<size>70</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>288</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-25-18-23-54_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2016-04-20</time>
+			<size>67</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>278</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-03-03-12-11-57_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2018-08-14</time>
+			<size>6</size>
+			<DU_grain>IM</DU_grain>
+			<weight>18</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-09-15-09-28-59_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-02-02</time>
+			<size>86</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>377</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-11-07-11-06-14_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2022-08-26</time>
+			<size>91</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>400</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-18-19-16-18_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-05-21</time>
+			<size>32</size>
+			<DU_grain>BN</DU_grain>
+			<weight>99</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-06-04-08-06-42_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2017-01-31</time>
+			<size>51</size>
+			<DU_grain>HD</DU_grain>
+			<weight>221</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-23-21-22-47_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-09-17</time>
+			<size>77</size>
+			<DU_grain>MY</DU_grain>
+			<weight>338</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-07-26-11-50-10_8_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-04-30</time>
+			<size>76</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>334</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-05-07-08-04-43_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-01-29</time>
+			<size>70</size>
+			<DU_grain>MY</DU_grain>
+			<weight>307</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-07-19-00-50_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2018-08-25</time>
+			<size>51</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>226</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-14-12-33-49_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-11-03</time>
+			<size>54</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>237</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-07-25-17-53-34_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-01-06</time>
+			<size>55</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>240</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-07-11-23-55-40_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-08-01</time>
+			<size>75</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>326</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-09-05-13-41-12_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-09-20</time>
+			<size>83</size>
+			<DU_grain>SD</DU_grain>
+			<weight>371</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-05-29-22-29-11_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2016-10-28</time>
+			<size>6</size>
+			<DU_grain>IM</DU_grain>
+			<weight>18</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-10-23-29-00_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2017-07-02</time>
+			<size>45</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>198</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-04-07-15-04-11_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2018-12-20</time>
+			<size>72</size>
+			<DU_grain>AP</DU_grain>
+			<weight>327</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-09-05-19-39-39_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-01-26</time>
+			<size>73</size>
+			<DU_grain>MY</DU_grain>
+			<weight>324</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-12-06-19-01-28_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2016-06-04</time>
+			<size>3</size>
+			<DU_grain>IM</DU_grain>
+			<weight>9</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-04-27-08-26-49_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-07-06</time>
+			<size>69</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>305</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-30-13-29-32_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2018-07-10</time>
+			<size>74</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>307</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-07-12-13-39-05_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-01-01</time>
+			<size>69</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>302</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-31-21-54-40_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-06-08</time>
+			<size>72</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>315</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-04-18-10-16-33_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2021-06-13</time>
+			<size>9</size>
+			<DU_grain>IM</DU_grain>
+			<weight>29</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-10-21-16-48-45_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-10-18</time>
+			<size>49</size>
+			<DU_grain>MY</DU_grain>
+			<weight>216</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-03-07-10-47-08_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-06-02</time>
+			<size>69</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>305</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-05-06-11-14-35_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2018-02-26</time>
+			<size>16</size>
+			<DU_grain>BN</DU_grain>
+			<weight>49</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-09-09-12-18-19_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-03-01</time>
+			<size>59</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>261</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-15-18-20-36_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-01-04</time>
+			<size>49</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>212</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-02-23-21-41-57_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2020-04-29</time>
+			<size>34</size>
+			<DU_grain>IM</DU_grain>
+			<weight>106</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-02-18-48-21_10_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-05-21</time>
+			<size>85</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>371</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-03-31-10-20-01_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2020-02-02</time>
+			<size>67</size>
+			<DU_grain>HD</DU_grain>
+			<weight>287</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-06-06-21-37-04_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2017-01-14</time>
+			<size>79</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>346</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-05-01-20-01-03_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-06-28</time>
+			<size>26</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>118</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-13-09-54-52_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-05-13</time>
+			<size>59</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>260</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-03-02-12-36-38_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-04-20</time>
+			<size>67</size>
+			<DU_grain>HD</DU_grain>
+			<weight>289</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-10-09-09-05-46_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-07-14</time>
+			<size>4</size>
+			<DU_grain>IM</DU_grain>
+			<weight>12</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-25-22-33-08_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-03-02</time>
+			<size>84</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>368</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-09-05-13-13-49_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-05-22</time>
+			<size>84</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>346</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-09-23-18-52-55_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-11-10</time>
+			<size>48</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>214</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-15-20-16-15_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-02-01</time>
+			<size>79</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>346</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-07-23-16-50-52_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-10-27</time>
+			<size>82</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>359</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-05-23-20-10-47_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2021-10-09</time>
+			<size>76</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>331</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-05-09-59-31_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-11-14</time>
+			<size>74</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>321</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-27-17-55-22_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2019-07-29</time>
+			<size>5</size>
+			<DU_grain>IM</DU_grain>
+			<weight>14</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-03-25-10-30-24_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-03-14</time>
+			<size>78</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>339</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-02-02-09-10-10_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2016-05-25</time>
+			<size>82</size>
+			<DU_grain>SD</DU_grain>
+			<weight>369</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-19-12-11-36_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-12-16</time>
+			<size>75</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>330</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-07-13-08-07-24_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-08-24</time>
+			<size>74</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>327</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-09-15-16-37-19_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2021-06-22</time>
+			<size>74</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>324</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-03-10-17-36-26_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2020-03-31</time>
+			<size>85</size>
+			<DU_grain>HD</DU_grain>
+			<weight>364</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-24-11-31-20_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2016-08-19</time>
+			<size>69</size>
+			<DU_grain>AP</DU_grain>
+			<weight>316</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-10-12-13-13-50_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-01-05</time>
+			<size>39</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>173</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-05-28-23-33-48_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-05-04</time>
+			<size>18</size>
+			<DU_grain>BN</DU_grain>
+			<weight>56</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-09-23-17-27-25_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-01-29</time>
+			<size>69</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>304</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-05-21-16-39-59_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2018-09-16</time>
+			<size>54</size>
+			<DU_grain>HD</DU_grain>
+			<weight>233</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-09-13-16-56-06_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2018-12-09</time>
+			<size>61</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>269</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-30-11-44-34_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-09-17</time>
+			<size>64</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>279</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-18-18-48-01_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-07-23</time>
+			<size>58</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>255</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-03-13-18-58-07_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-07-19</time>
+			<size>67</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>291</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-11-21-17-49_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2018-05-01</time>
+			<size>55</size>
+			<DU_grain>HD</DU_grain>
+			<weight>234</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-07-22-49-43_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2016-06-06</time>
+			<size>16</size>
+			<DU_grain>IM</DU_grain>
+			<weight>50</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-04-02-16-54-56_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2017-03-23</time>
+			<size>42</size>
+			<DU_grain>BN</DU_grain>
+			<weight>126</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-06-17-13-12-46_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-04-05</time>
+			<size>74</size>
+			<DU_grain>AP</DU_grain>
+			<weight>338</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-11-06-16-42-04_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-11-11</time>
+			<size>85</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>374</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-01-13-17-05-07_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-05-22</time>
+			<size>67</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>293</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-04-12-11-42-37_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2018-04-15</time>
+			<size>53</size>
+			<DU_grain>HD</DU_grain>
+			<weight>225</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-15-20-09-45_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-07-20</time>
+			<size>51</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>226</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-09-09-16-20-53_8_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-08-12</time>
+			<size>58</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>256</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-07-21-20-31-34_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-09-10</time>
+			<size>64</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>278</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-05-29-23-12-25_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-03-04</time>
+			<size>69</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>299</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-08-13-38-53_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-05-05</time>
+			<size>79</size>
+			<DU_grain>MY</DU_grain>
+			<weight>353</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-10-16-15-24-52_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-07-06</time>
+			<size>81</size>
+			<DU_grain>AP</DU_grain>
+			<weight>373</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-12-23-23-15-00_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-10-11</time>
+			<size>67</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>295</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-30-14-08-31_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-04-19</time>
+			<size>104</size>
+			<DU_grain>SD</DU_grain>
+			<weight>463</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-08-01-14-17-06_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2019-07-06</time>
+			<size>58</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>256</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-10-11-15-29-23_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-07-17</time>
+			<size>64</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>280</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-27-15-22-29_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-09-15</time>
+			<size>66</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>292</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-05-21-41-54_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2017-11-10</time>
+			<size>11</size>
+			<DU_grain>IM</DU_grain>
+			<weight>33</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-12-10-17-38-28_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-10-24</time>
+			<size>80</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>348</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-10-09-22-42-34_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2021-07-14</time>
+			<size>60</size>
+			<DU_grain>AP</DU_grain>
+			<weight>274</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-12-11-08-13-36_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-01-29</time>
+			<size>78</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>344</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-22-12-29-14_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-01-20</time>
+			<size>54</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>241</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-17-16-44-48_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-07-05</time>
+			<size>45</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>201</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-07-05-11-42-26_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2016-03-25</time>
+			<size>91</size>
+			<DU_grain>HD</DU_grain>
+			<weight>386</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-06-02-20-30-12_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-04-01</time>
+			<size>73</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>319</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-12-09-13-55-20_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-06-14</time>
+			<size>70</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>305</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-20-10-42-25_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-02-25</time>
+			<size>75</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>327</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-12-23-25-46_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2016-02-04</time>
+			<size>6</size>
+			<DU_grain>IM</DU_grain>
+			<weight>18</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-10-14-15-20-39_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-12-15</time>
+			<size>54</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>235</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-08-29-17-30-16_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2017-10-02</time>
+			<size>82</size>
+			<DU_grain>HD</DU_grain>
+			<weight>349</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-15-18-25-06_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-02-08</time>
+			<size>82</size>
+			<DU_grain>MY</DU_grain>
+			<weight>363</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-05-17-08-41-21_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-09-28</time>
+			<size>67</size>
+			<DU_grain>MY</DU_grain>
+			<weight>294</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-07-10-12-14-38_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-03-10</time>
+			<size>72</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>315</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-09-11-39-24_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2021-01-20</time>
+			<size>64</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>283</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-10-26-22-24-45_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-11-24</time>
+			<size>73</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>323</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-07-15-19-25-06_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-03-11</time>
+			<size>63</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>275</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-10-21-17-37-53_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2019-02-02</time>
+			<size>77</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>334</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-06-15-28-30_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2021-02-18</time>
+			<size>74</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>323</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-12-10-13-56-18_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-10-19</time>
+			<size>63</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>278</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-10-02-09-06-56_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2016-12-27</time>
+			<size>90</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>396</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-09-06-15-57-46_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-12-11</time>
+			<size>60</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>264</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-05-22-10-28-43_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-04-05</time>
+			<size>55</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>242</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-06-15-22-01-19_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-02-19</time>
+			<size>71</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>315</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-03-16-42-32_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-05-31</time>
+			<size>12</size>
+			<DU_grain>BN</DU_grain>
+			<weight>39</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-11-11-13-36-16_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-11-16</time>
+			<size>99</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>406</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-10-16-20-20-29_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2021-06-27</time>
+			<size>76</size>
+			<DU_grain>MY</DU_grain>
+			<weight>340</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-10-08-14-30-18_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-06-11</time>
+			<size>54</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>225</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-11-18-12-06-12_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-02-19</time>
+			<size>23</size>
+			<DU_grain>IM</DU_grain>
+			<weight>71</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-04-14-11-19-05_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-11-18</time>
+			<size>65</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>284</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-09-03-19-24-51_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-09-08</time>
+			<size>97</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>400</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-19-21-17-10_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-01-27</time>
+			<size>77</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>336</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-21-15-21-41_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-04-21</time>
+			<size>71</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>311</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-05-16-18-08-56_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-09-04</time>
+			<size>66</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>287</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-12-13-08-51-37_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-06-16</time>
+			<size>55</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>225</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-03-27-12-22-57_9_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-05-13</time>
+			<size>73</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>321</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-12-20-08-02-46_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-01-28</time>
+			<size>77</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>338</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-05-23-16-48-05_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-04-30</time>
+			<size>76</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>333</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-04-24-21-45-07_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-09-08</time>
+			<size>92</size>
+			<DU_grain>SD</DU_grain>
+			<weight>411</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-02-17-10-00_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2020-06-12</time>
+			<size>42</size>
+			<DU_grain>SD</DU_grain>
+			<weight>191</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-04-10-18-15-44_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-10-12</time>
+			<size>73</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>323</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-07-13-18-42-27_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-03-28</time>
+			<size>40</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>177</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-07-10-20-47-37_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-12-26</time>
+			<size>65</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>283</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-16-13-00-01_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-10-05</time>
+			<size>6</size>
+			<DU_grain>IM</DU_grain>
+			<weight>19</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-04-08-19-00-09_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-04-06</time>
+			<size>12</size>
+			<DU_grain>IM</DU_grain>
+			<weight>37</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-07-01-15-32-59_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-01-24</time>
+			<size>82</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>361</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-04-07-20-56-57_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2019-01-27</time>
+			<size>98</size>
+			<DU_grain>SD</DU_grain>
+			<weight>436</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-05-08-14-46-11_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-11-21</time>
+			<size>74</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>321</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-13-19-53-31_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-06-29</time>
+			<size>48</size>
+			<DU_grain>MY</DU_grain>
+			<weight>213</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-09-19-15-21-09_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2019-01-14</time>
+			<size>76</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>331</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-01-28-21-01-39_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-05-15</time>
+			<size>77</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>338</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-11-05-20-20-42_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-10-16</time>
+			<size>88</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>388</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-27-12-49-47_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-05-22</time>
+			<size>82</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>360</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-08-12-15-12-09_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2018-02-02</time>
+			<size>32</size>
+			<DU_grain>BN</DU_grain>
+			<weight>96</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-20-13-26-57_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-11-08</time>
+			<size>57</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>250</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-07-18-18-46-08_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2016-04-06</time>
+			<size>3</size>
+			<DU_grain>IM</DU_grain>
+			<weight>9</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-10-25-17-04-53_10_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-12-04</time>
+			<size>69</size>
+			<DU_grain>AP</DU_grain>
+			<weight>316</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-09-15-16-37-19_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-05-04</time>
+			<size>44</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>195</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-04-27-08-26-49_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-06-04</time>
+			<size>4</size>
+			<DU_grain>IM</DU_grain>
+			<weight>12</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-01-09-12-59-33_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2018-06-06</time>
+			<size>79</size>
+			<DU_grain>AP</DU_grain>
+			<weight>362</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-19-12-01-18_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-08-11</time>
+			<size>59</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>261</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-09-07-22-52-12_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2021-03-29</time>
+			<size>9</size>
+			<DU_grain>IM</DU_grain>
+			<weight>28</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-11-09-24-42_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-02-16</time>
+			<size>56</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>243</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-19-22-59-06_8_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-02-07</time>
+			<size>4</size>
+			<DU_grain>IM</DU_grain>
+			<weight>13</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-06-11-35-07_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-05-28</time>
+			<size>98</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>428</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-05-07-23-05-18_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-06-11</time>
+			<size>70</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>308</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-17-09-54-11_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2020-11-16</time>
+			<size>79</size>
+			<DU_grain>HD</DU_grain>
+			<weight>338</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-12-01-19-19-02_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2019-06-16</time>
+			<size>68</size>
+			<DU_grain>SD</DU_grain>
+			<weight>302</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-12-13-14-58-53_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-06-21</time>
+			<size>69</size>
+			<DU_grain>HD</DU_grain>
+			<weight>296</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-04-13-18-12_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2016-02-12</time>
+			<size>63</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>277</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-10-18-14-52-09_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2021-06-30</time>
+			<size>5</size>
+			<DU_grain>IM</DU_grain>
+			<weight>15</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-17-09-11-32_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2019-07-13</time>
+			<size>59</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>261</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-02-23-23-43-19_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-04-09</time>
+			<size>78</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>344</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-06-22-21-09-16_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-06-11</time>
+			<size>91</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>400</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-06-13-12-58-54_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-04-02</time>
+			<size>26</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>115</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-03-28-11-22-59_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2019-02-01</time>
+			<size>89</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>387</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-25-19-39-54_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2020-04-13</time>
+			<size>62</size>
+			<DU_grain>HD</DU_grain>
+			<weight>267</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-20-08-35-11_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2018-09-29</time>
+			<size>7</size>
+			<DU_grain>IM</DU_grain>
+			<weight>23</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-26-18-46-42_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-05-22</time>
+			<size>56</size>
+			<DU_grain>HD</DU_grain>
+			<weight>243</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-09-11-17-09-19_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-09-01</time>
+			<size>47</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>203</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-10-26-10-19-12_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-02-19</time>
+			<size>48</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>212</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-11-22-15-36-33_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-07-26</time>
+			<size>56</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>244</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-10-16-15-24-52_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-11-17</time>
+			<size>75</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>329</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-04-18-21-39-49_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2016-05-19</time>
+			<size>73</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>321</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-10-01-19-53-42_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-10-15</time>
+			<size>73</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>318</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-09-28-10-12-02_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-05-23</time>
+			<size>75</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>328</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-04-14-14-22-14_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2022-03-04</time>
+			<size>89</size>
+			<DU_grain>AP</DU_grain>
+			<weight>409</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-28-14-43-17_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-06-26</time>
+			<size>47</size>
+			<DU_grain>AP</DU_grain>
+			<weight>219</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-13-17-51-20_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-02-04</time>
+			<size>79</size>
+			<DU_grain>HD</DU_grain>
+			<weight>336</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-09-04-22-55-31_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-09-24</time>
+			<size>83</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>363</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-12-18-39-57_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-07-17</time>
+			<size>52</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>227</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-12-22-57-18_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-07-29</time>
+			<size>24</size>
+			<DU_grain>BN</DU_grain>
+			<weight>71</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-10-28-15-48-54_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-12-26</time>
+			<size>60</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>261</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-25-23-26-39_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2021-03-21</time>
+			<size>46</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>204</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-05-13-15-11-58_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-05-08</time>
+			<size>77</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>336</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-12-29-21-25-20_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2020-04-28</time>
+			<size>58</size>
+			<DU_grain>HD</DU_grain>
+			<weight>250</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-27-16-24-43_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2016-12-11</time>
+			<size>57</size>
+			<DU_grain>HD</DU_grain>
+			<weight>244</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-03-04-10-17-53_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-04-02</time>
+			<size>67</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>293</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-05-11-18-55_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2019-10-05</time>
+			<size>103</size>
+			<DU_grain>AP</DU_grain>
+			<weight>472</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-19-11-11-44_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2016-06-01</time>
+			<size>70</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>308</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-07-19-19-16-00_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-09-07</time>
+			<size>72</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>318</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-07-08-09-12-10_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-01-18</time>
+			<size>74</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>324</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-04-07-12-57-00_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-05-11</time>
+			<size>61</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>269</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-04-03-12-38-42_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-12-14</time>
+			<size>83</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>361</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-02-01-15-58-27_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2016-08-25</time>
+			<size>64</size>
+			<DU_grain>AP</DU_grain>
+			<weight>293</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-04-24-23-58-35_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2019-06-01</time>
+			<size>5</size>
+			<DU_grain>IM</DU_grain>
+			<weight>14</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-12-23-12-48-20_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2019-11-21</time>
+			<size>62</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>271</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-25-10-33-17_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-04-01</time>
+			<size>39</size>
+			<DU_grain>BN</DU_grain>
+			<weight>117</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-07-22-08-56-35_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-06-25</time>
+			<size>46</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>204</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-10-18-08-05-28_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-11-22</time>
+			<size>73</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>319</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-12-26-15-03-10_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-01-19</time>
+			<size>22</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>97</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-06-26-10-00-50_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-04-12</time>
+			<size>69</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>302</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-03-27-08-39-17_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2017-11-04</time>
+			<size>51</size>
+			<DU_grain>BN</DU_grain>
+			<weight>156</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-05-18-13-05-30_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-07-11</time>
+			<size>77</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>320</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-08-21-08-22-44_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-08-13</time>
+			<size>42</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>185</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-11-13-19-42-04_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-09-01</time>
+			<size>67</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>292</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-05-13-20-00-06_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2019-10-26</time>
+			<size>44</size>
+			<DU_grain>BN</DU_grain>
+			<weight>131</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-08-22-13-40-50_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-04-10</time>
+			<size>66</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>291</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-22-18-44-10_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-05-03</time>
+			<size>47</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>205</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-02-13-13-13-55_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-03-02</time>
+			<size>62</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>274</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-04-30-10-04-17_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-06-12</time>
+			<size>72</size>
+			<DU_grain>SD</DU_grain>
+			<weight>324</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-16-22-35-35_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-11-16</time>
+			<size>52</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>230</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-22-16-23-37_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-10-29</time>
+			<size>59</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>263</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-12-19-15-15_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-11-06</time>
+			<size>60</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>262</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-03-20-18-16-30_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-01-02</time>
+			<size>6</size>
+			<DU_grain>IM</DU_grain>
+			<weight>18</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-10-23-09-54-51_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2018-02-19</time>
+			<size>56</size>
+			<DU_grain>HD</DU_grain>
+			<weight>241</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-03-18-32-19_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2019-11-19</time>
+			<size>92</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>404</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-10-05-17-45-43_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-06-28</time>
+			<size>53</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>230</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-27-21-59-07_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-01-02</time>
+			<size>64</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>279</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-07-14-23-32-44_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-07-05</time>
+			<size>9</size>
+			<DU_grain>IM</DU_grain>
+			<weight>27</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-10-19-17-43_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2016-04-27</time>
+			<size>56</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>244</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-24-23-54-29_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-01-29</time>
+			<size>85</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>371</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-10-24-15-52-50_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-07-19</time>
+			<size>59</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>259</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-03-14-13-23-45_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-03-11</time>
+			<size>51</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>225</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-08-26-21-58-50_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2021-05-29</time>
+			<size>68</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>296</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-11-08-08-15-50_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-10-15</time>
+			<size>37</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>162</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-10-22-13-38-09_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-12-03</time>
+			<size>84</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>367</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-11-14-17-21-58_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2016-12-30</time>
+			<size>72</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>318</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-02-05-11-29-04_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-09-07</time>
+			<size>26</size>
+			<DU_grain>IM</DU_grain>
+			<weight>79</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-03-12-17-31-40_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-06-24</time>
+			<size>75</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>312</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-03-08-52-36_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-08-22</time>
+			<size>62</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>255</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-25-10-57-17_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-04-11</time>
+			<size>74</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>326</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-07-10-09-17-43_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-10-20</time>
+			<size>75</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>328</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-10-05-14-12-30_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-03-12</time>
+			<size>23</size>
+			<DU_grain>BN</DU_grain>
+			<weight>70</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-11-28-15-57-18_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-01-28</time>
+			<size>75</size>
+			<DU_grain>MY</DU_grain>
+			<weight>334</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-05-27-16-28-01_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-04-22</time>
+			<size>73</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>321</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-10-16-09-03_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-05-17</time>
+			<size>90</size>
+			<DU_grain>HD</DU_grain>
+			<weight>384</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-11-26-15-29-09_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-06-27</time>
+			<size>77</size>
+			<DU_grain>MY</DU_grain>
+			<weight>344</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-05-11-16-43-29_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-07-17</time>
+			<size>86</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>374</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-04-09-15-50-50_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2019-09-06</time>
+			<size>40</size>
+			<DU_grain>BN</DU_grain>
+			<weight>123</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-02-17-21-35-50_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-08-04</time>
+			<size>4</size>
+			<DU_grain>IM</DU_grain>
+			<weight>13</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-09-24-10-23-35_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-10-19</time>
+			<size>87</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>381</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-09-05-10-58-58_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-03-07</time>
+			<size>76</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>316</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-08-08-12-04-57_9_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-03-30</time>
+			<size>5</size>
+			<DU_grain>IM</DU_grain>
+			<weight>16</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-09-08-19-56-06_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2022-05-07</time>
+			<size>52</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>230</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-09-29-11-34-07_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2020-05-24</time>
+			<size>45</size>
+			<DU_grain>HD</DU_grain>
+			<weight>194</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-09-18-13-31-38_9_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2021-01-17</time>
+			<size>61</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>270</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-15-19-24-11_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-11-16</time>
+			<size>45</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>195</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-03-03-12-56-20_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2019-05-22</time>
+			<size>6</size>
+			<DU_grain>IM</DU_grain>
+			<weight>17</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-08-17-11-16-29_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-07-22</time>
+			<size>66</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>291</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-10-11-09-27-42_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2020-04-05</time>
+			<size>67</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>291</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-11-13-23-29_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-10-05</time>
+			<size>4</size>
+			<DU_grain>IM</DU_grain>
+			<weight>12</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-04-19-21-18-01_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-12-09</time>
+			<size>85</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>373</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-04-04-20-43-52_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-10-05</time>
+			<size>82</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>355</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-07-18-18-46-08_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-12-22</time>
+			<size>81</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>351</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-01-13-43-36_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-06-21</time>
+			<size>94</size>
+			<DU_grain>MY</DU_grain>
+			<weight>418</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-07-04-22-14-01_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-07-18</time>
+			<size>43</size>
+			<DU_grain>BN</DU_grain>
+			<weight>129</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-09-03-13-39-02_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2016-06-28</time>
+			<size>82</size>
+			<DU_grain>HD</DU_grain>
+			<weight>353</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-11-14-22-45-10_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-04-12</time>
+			<size>26</size>
+			<DU_grain>BN</DU_grain>
+			<weight>76</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-05-14-10-36-51_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-09-20</time>
+			<size>69</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>303</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-07-06-15-17-27_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2016-12-30</time>
+			<size>64</size>
+			<DU_grain>AP</DU_grain>
+			<weight>294</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-12-10-17-56-53_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-09-21</time>
+			<size>71</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>311</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-05-10-11-38-00_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-09-22</time>
+			<size>64</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>282</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-12-09-20-59-46_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-03-24</time>
+			<size>22</size>
+			<DU_grain>BN</DU_grain>
+			<weight>65</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-09-09-16-20-53_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-08-06</time>
+			<size>31</size>
+			<DU_grain>BN</DU_grain>
+			<weight>92</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-09-28-10-28-40_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-12-03</time>
+			<size>78</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>341</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-04-23-19-33-48_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-01-31</time>
+			<size>70</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>308</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-03-10-23-39-58_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-05-11</time>
+			<size>39</size>
+			<DU_grain>BN</DU_grain>
+			<weight>117</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-17-17-34-33_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-07-30</time>
+			<size>101</size>
+			<DU_grain>SD</DU_grain>
+			<weight>454</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-15-16-43-29_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-08-02</time>
+			<size>69</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>302</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-03-07-11-53-10_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-03-11</time>
+			<size>77</size>
+			<DU_grain>SD</DU_grain>
+			<weight>345</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-05-19-56-43_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-08-10</time>
+			<size>74</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>305</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-10-02-13-27-42_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2021-01-23</time>
+			<size>92</size>
+			<DU_grain>SD</DU_grain>
+			<weight>410</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-05-13-18-01-34_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2021-02-27</time>
+			<size>61</size>
+			<DU_grain>HD</DU_grain>
+			<weight>263</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-05-06-13-12-29_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2021-02-26</time>
+			<size>68</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>294</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-07-23-10-06-52_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-07-07</time>
+			<size>10</size>
+			<DU_grain>BN</DU_grain>
+			<weight>33</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-05-19-15-52-38_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-02-20</time>
+			<size>85</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>370</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-10-20-11-36-20_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-10-16</time>
+			<size>55</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>243</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-10-13-13-41-02_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-09-29</time>
+			<size>64</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>280</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-05-13-53-05_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2022-03-25</time>
+			<size>82</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>360</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-05-21-17-04-38_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2020-02-15</time>
+			<size>36</size>
+			<DU_grain>BN</DU_grain>
+			<weight>111</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-19-17-02-58_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2019-07-10</time>
+			<size>58</size>
+			<DU_grain>AP</DU_grain>
+			<weight>268</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-12-24-14-47-31_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-02-25</time>
+			<size>3</size>
+			<DU_grain>IM</DU_grain>
+			<weight>9</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-18-16-09-41_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2018-10-29</time>
+			<size>72</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>318</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-27-14-18-06_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2019-06-02</time>
+			<size>5</size>
+			<DU_grain>IM</DU_grain>
+			<weight>15</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-01-08-41-48_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2021-03-10</time>
+			<size>76</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>334</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-05-22-16-47-10_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2016-07-21</time>
+			<size>71</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>309</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-26-10-04-59_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2019-11-18</time>
+			<size>27</size>
+			<DU_grain>BN</DU_grain>
+			<weight>81</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-12-10-56-31_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-10-01</time>
+			<size>36</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>158</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-24-23-22-54_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-04-08</time>
+			<size>74</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>325</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-12-18-16-04-01_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-05-21</time>
+			<size>74</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>324</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-10-10-21-45-48_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2016-12-08</time>
+			<size>67</size>
+			<DU_grain>AP</DU_grain>
+			<weight>308</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-05-23-21-14-05_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2016-08-03</time>
+			<size>73</size>
+			<DU_grain>MY</DU_grain>
+			<weight>323</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-16-20-29-30_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2016-02-19</time>
+			<size>88</size>
+			<DU_grain>SD</DU_grain>
+			<weight>396</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-01-09-12-59-33_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2018-03-31</time>
+			<size>40</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>179</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-09-11-12-25-26_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2021-10-18</time>
+			<size>68</size>
+			<DU_grain>AP</DU_grain>
+			<weight>309</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-02-12-10-32-18_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2016-08-10</time>
+			<size>63</size>
+			<DU_grain>MY</DU_grain>
+			<weight>282</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-04-21-03-12_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-10-21</time>
+			<size>4</size>
+			<DU_grain>IM</DU_grain>
+			<weight>13</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-16-16-58-49_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-09-20</time>
+			<size>55</size>
+			<DU_grain>AP</DU_grain>
+			<weight>252</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-05-24-08-26-45_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-01-11</time>
+			<size>3</size>
+			<DU_grain>IM</DU_grain>
+			<weight>10</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-25-23-59-49_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-04-02</time>
+			<size>24</size>
+			<DU_grain>BN</DU_grain>
+			<weight>76</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-25-18-35-41_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-01-23</time>
+			<size>59</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>257</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-10-03-23-00-20_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2016-04-02</time>
+			<size>86</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>376</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-05-21-17-04-38_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-10-11</time>
+			<size>72</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>314</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-06-07-14-04-04_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2019-04-11</time>
+			<size>5</size>
+			<DU_grain>IM</DU_grain>
+			<weight>16</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-05-20-08-43-27_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-12-11</time>
+			<size>76</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>331</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-10-23-12-36-59_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-09-01</time>
+			<size>74</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>320</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-10-17-18-21-22_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2019-12-11</time>
+			<size>75</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>327</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-07-27-17-26-39_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-05-04</time>
+			<size>4</size>
+			<DU_grain>IM</DU_grain>
+			<weight>11</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-03-21-20-40-10_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-03-03</time>
+			<size>69</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>302</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-06-28-12-55-13_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-09-30</time>
+			<size>79</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>343</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-10-06-15-38-07_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-05-30</time>
+			<size>77</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>339</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-30-11-34-11_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-02-04</time>
+			<size>76</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>335</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-18-09-11-52_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-08-29</time>
+			<size>4</size>
+			<DU_grain>IM</DU_grain>
+			<weight>12</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-10-22-46-56_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2016-04-04</time>
+			<size>4</size>
+			<DU_grain>IM</DU_grain>
+			<weight>13</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-16-22-17-25_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2018-07-04</time>
+			<size>108</size>
+			<DU_grain>SD</DU_grain>
+			<weight>484</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-13-17-51-20_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2016-12-15</time>
+			<size>72</size>
+			<DU_grain>BN</DU_grain>
+			<weight>215</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-02-19-12-48_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2019-03-19</time>
+			<size>5</size>
+			<DU_grain>IM</DU_grain>
+			<weight>14</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-03-31-16-21-17_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-03-03</time>
+			<size>6</size>
+			<DU_grain>IM</DU_grain>
+			<weight>18</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-08-04-21-54-49_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2020-02-15</time>
+			<size>5</size>
+			<DU_grain>IM</DU_grain>
+			<weight>14</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-09-04-15-39-51_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2016-09-02</time>
+			<size>45</size>
+			<DU_grain>BN</DU_grain>
+			<weight>136</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-03-27-15-12-08_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-05-06</time>
+			<size>66</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>286</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-04-19-15-08-31_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-06-07</time>
+			<size>9</size>
+			<DU_grain>IM</DU_grain>
+			<weight>28</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-02-23-09-57-27_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-04-29</time>
+			<size>24</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>110</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-05-05-08-05-59_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2017-06-04</time>
+			<size>10</size>
+			<DU_grain>IM</DU_grain>
+			<weight>32</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-04-07-18-08-20_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-05-17</time>
+			<size>91</size>
+			<DU_grain>SD</DU_grain>
+			<weight>408</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-04-08-20-42-33_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-01-01</time>
+			<size>58</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>254</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-10-04-18-46-08_8_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-03-20</time>
+			<size>84</size>
+			<DU_grain>MY</DU_grain>
+			<weight>370</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-01-16-59-41_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-09-05</time>
+			<size>82</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>335</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-08-27-21-36-38_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2020-09-10</time>
+			<size>90</size>
+			<DU_grain>SD</DU_grain>
+			<weight>402</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-12-31-14-53-30_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-07-13</time>
+			<size>79</size>
+			<DU_grain>MY</DU_grain>
+			<weight>347</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-02-18-48-21_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-07-05</time>
+			<size>46</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>202</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-12-21-13-32-34_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-03-15</time>
+			<size>75</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>307</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-05-08-23-20-01_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2016-07-04</time>
+			<size>73</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>322</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-03-15-19-46-25_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-07-24</time>
+			<size>3</size>
+			<DU_grain>IM</DU_grain>
+			<weight>10</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-11-10-57-27_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-09-01</time>
+			<size>69</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>303</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-08-07-11-48-47_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-02-09</time>
+			<size>59</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>259</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-02-05-18-47-25_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-02-12</time>
+			<size>65</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>284</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-29-17-55-56_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-07-25</time>
+			<size>67</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>294</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-07-12-19-10-11_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2016-06-08</time>
+			<size>78</size>
+			<DU_grain>SD</DU_grain>
+			<weight>351</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-10-19-15-58-33_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-07-15</time>
+			<size>59</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>262</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-11-19-12-16-52_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-11-04</time>
+			<size>91</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>400</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-04-14-44-13_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-07-06</time>
+			<size>71</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>312</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-05-20-21-59_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-05-16</time>
+			<size>68</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>300</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-06-11-35-07_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2019-01-19</time>
+			<size>82</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>357</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-22-14-31-32_10_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-12-27</time>
+			<size>73</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>322</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-23-09-31-25_11_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-03-30</time>
+			<size>47</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>207</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-10-09-16-51-28_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2021-09-09</time>
+			<size>10</size>
+			<DU_grain>IM</DU_grain>
+			<weight>32</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-04-24-14-09-11_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-11-17</time>
+			<size>60</size>
+			<DU_grain>MY</DU_grain>
+			<weight>268</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-08-17-00-44_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2022-07-23</time>
+			<size>62</size>
+			<DU_grain>BN</DU_grain>
+			<weight>185</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-05-08-09-01_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-11-04</time>
+			<size>51</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>224</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-18-18-30-25_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-02-28</time>
+			<size>6</size>
+			<DU_grain>IM</DU_grain>
+			<weight>19</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-11-28-16-49-13_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2021-06-17</time>
+			<size>48</size>
+			<DU_grain>SD</DU_grain>
+			<weight>214</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-17-19-52-01_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-08-04</time>
+			<size>50</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>219</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-07-22-19-03-53_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-08-14</time>
+			<size>86</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>376</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-10-15-22-23-55_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2018-06-09</time>
+			<size>78</size>
+			<DU_grain>AP</DU_grain>
+			<weight>358</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-22-14-31-32_9_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-11-04</time>
+			<size>67</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>292</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-07-19-19-16-00_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-01-26</time>
+			<size>80</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>349</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-09-02-15-33-48_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-11-13</time>
+			<size>78</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>340</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-08-02-17-50-13_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2016-10-12</time>
+			<size>52</size>
+			<DU_grain>HD</DU_grain>
+			<weight>224</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-04-30-10-22-45_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2017-01-31</time>
+			<size>6</size>
+			<DU_grain>IM</DU_grain>
+			<weight>18</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-06-03-16-52-40_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-03-21</time>
+			<size>58</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>252</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-02-13-13-13-55_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-04-11</time>
+			<size>66</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>287</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-04-12-59-32_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-11-05</time>
+			<size>58</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>251</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-11-07-12-17-29_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2021-07-05</time>
+			<size>73</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>298</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-09-18-13-31-38_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-07-02</time>
+			<size>51</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>208</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-14-23-06-11_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2022-04-30</time>
+			<size>73</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>321</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-05-28-23-33-48_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-02-20</time>
+			<size>70</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>306</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-25-11-03-42_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2016-03-14</time>
+			<size>75</size>
+			<DU_grain>AP</DU_grain>
+			<weight>347</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-09-30-09-42-06_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-09-25</time>
+			<size>68</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>294</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-03-04-15-20-39_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-09-10</time>
+			<size>54</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>239</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-01-21-17-58-05_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-04-18</time>
+			<size>63</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>274</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-22-15-26-56_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-07-10</time>
+			<size>81</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>355</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-03-10-01-35_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-06-04</time>
+			<size>52</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>229</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-10-29-08-08-13_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-11-22</time>
+			<size>43</size>
+			<DU_grain>BN</DU_grain>
+			<weight>131</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-07-31-12-57-14_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-10-17</time>
+			<size>65</size>
+			<DU_grain>MY</DU_grain>
+			<weight>290</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-11-11-13-15-35_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-12-03</time>
+			<size>87</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>383</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-11-07-20-15-12_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2021-06-13</time>
+			<size>56</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>245</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-01-03-22-25-11_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-12-06</time>
+			<size>78</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>343</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-02-24-20-18-41_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2016-07-10</time>
+			<size>84</size>
+			<DU_grain>HD</DU_grain>
+			<weight>360</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-07-14-09-47-03_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2021-06-04</time>
+			<size>4</size>
+			<DU_grain>IM</DU_grain>
+			<weight>13</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-07-10-15-06-00_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2021-04-19</time>
+			<size>82</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>359</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-04-02-15-36-48_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-03-11</time>
+			<size>71</size>
+			<DU_grain>MY</DU_grain>
+			<weight>317</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-08-26-22-04-24_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2016-12-26</time>
+			<size>8</size>
+			<DU_grain>IM</DU_grain>
+			<weight>24</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-12-28-10-17-20_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2019-09-05</time>
+			<size>9</size>
+			<DU_grain>IM</DU_grain>
+			<weight>27</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-08-09-09-37-24_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-11-13</time>
+			<size>45</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>196</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-07-08-09-12-10_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-01-05</time>
+			<size>76</size>
+			<DU_grain>AP</DU_grain>
+			<weight>347</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-02-15-22-03-53_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-06-16</time>
+			<size>4</size>
+			<DU_grain>IM</DU_grain>
+			<weight>11</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-02-17-42-13_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2019-02-03</time>
+			<size>4</size>
+			<DU_grain>IM</DU_grain>
+			<weight>13</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-09-28-09-29-08_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-04-23</time>
+			<size>80</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>347</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-12-04-19-09-49_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-11-23</time>
+			<size>72</size>
+			<DU_grain>MY</DU_grain>
+			<weight>322</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-16-20-29-30_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2017-06-19</time>
+			<size>4</size>
+			<DU_grain>IM</DU_grain>
+			<weight>13</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-07-05-09-19-16_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-01-13</time>
+			<size>63</size>
+			<DU_grain>SD</DU_grain>
+			<weight>286</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-12-20-08-02-46_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2018-09-10</time>
+			<size>4</size>
+			<DU_grain>IM</DU_grain>
+			<weight>11</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-02-19-17-27-27_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-02-18</time>
+			<size>56</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>249</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-01-20-23-33-21_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2018-02-01</time>
+			<size>58</size>
+			<DU_grain>HD</DU_grain>
+			<weight>248</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-07-04-08-32-38_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2018-01-06</time>
+			<size>24</size>
+			<DU_grain>BN</DU_grain>
+			<weight>72</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-10-09-10-42-10_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2019-03-20</time>
+			<size>82</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>360</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-17-20-43-13_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2018-09-17</time>
+			<size>6</size>
+			<DU_grain>IM</DU_grain>
+			<weight>18</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-27-12-45-08_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-06-17</time>
+			<size>5</size>
+			<DU_grain>IM</DU_grain>
+			<weight>14</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-10-08-09-46-55_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-10-14</time>
+			<size>57</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>249</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-03-21-16-19-35_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2016-12-19</time>
+			<size>6</size>
+			<DU_grain>IM</DU_grain>
+			<weight>19</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-02-16-21-41-53_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-05-12</time>
+			<size>63</size>
+			<DU_grain>SD</DU_grain>
+			<weight>285</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-07-14-15-23_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-11-16</time>
+			<size>88</size>
+			<DU_grain>MY</DU_grain>
+			<weight>388</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-05-14-12-11-00_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-01-04</time>
+			<size>73</size>
+			<DU_grain>AP</DU_grain>
+			<weight>335</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-06-26-22-00-45_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2018-04-27</time>
+			<size>6</size>
+			<DU_grain>IM</DU_grain>
+			<weight>17</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-03-25-11-15-35_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2020-07-02</time>
+			<size>64</size>
+			<DU_grain>AP</DU_grain>
+			<weight>296</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-11-01-13-08-38_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2019-07-22</time>
+			<size>88</size>
+			<DU_grain>MY</DU_grain>
+			<weight>392</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-12-13-14-58-53_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-04-22</time>
+			<size>88</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>384</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-02-18-48-21_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-04-14</time>
+			<size>81</size>
+			<DU_grain>AP</DU_grain>
+			<weight>371</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-03-27-12-22-57_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-12-05</time>
+			<size>64</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>284</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-07-02-20-47-02_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-09-13</time>
+			<size>91</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>395</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-04-30-16-47-21_9_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-09-11</time>
+			<size>80</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>352</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-02-29-17-34-03_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2019-05-13</time>
+			<size>4</size>
+			<DU_grain>IM</DU_grain>
+			<weight>12</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-06-14-09-17-16_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-01-07</time>
+			<size>54</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>239</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-10-27-13-47-27_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-04-06</time>
+			<size>58</size>
+			<DU_grain>HD</DU_grain>
+			<weight>247</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-10-17-09-01-54_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-04-27</time>
+			<size>87</size>
+			<DU_grain>AP</DU_grain>
+			<weight>400</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-03-03-17-05-11_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-08-15</time>
+			<size>77</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>333</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-07-19-17-35-57_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2021-11-09</time>
+			<size>52</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>226</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-09-27-12-14-36_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-03-21</time>
+			<size>50</size>
+			<DU_grain>BN</DU_grain>
+			<weight>148</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-26-13-28-06_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-12-12</time>
+			<size>92</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>379</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-07-23-41-20_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2018-12-25</time>
+			<size>63</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>279</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-12-08-59-17_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2019-07-18</time>
+			<size>2</size>
+			<DU_grain>IM</DU_grain>
+			<weight>5</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-10-25-20-45-44_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-03-09</time>
+			<size>52</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>226</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-30-21-29-34_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2022-04-08</time>
+			<size>61</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>267</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-09-04-23-20-11_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2022-05-02</time>
+			<size>80</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>352</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-07-12-23-02-14_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2016-08-04</time>
+			<size>99</size>
+			<DU_grain>HD</DU_grain>
+			<weight>420</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-07-22-13-26-00_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-02-04</time>
+			<size>77</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>336</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-05-19-21-34-59_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2019-11-28</time>
+			<size>82</size>
+			<DU_grain>SD</DU_grain>
+			<weight>367</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-09-11-08-44-17_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2021-07-09</time>
+			<size>74</size>
+			<DU_grain>MY</DU_grain>
+			<weight>327</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-06-17-16-53-41_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-08-30</time>
+			<size>11</size>
+			<DU_grain>IM</DU_grain>
+			<weight>35</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-11-04-16-10-42_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2021-02-04</time>
+			<size>76</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>336</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-12-18-16-43-26_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-05-07</time>
+			<size>3</size>
+			<DU_grain>IM</DU_grain>
+			<weight>10</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-26-17-51-57_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-01-26</time>
+			<size>59</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>257</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-14-21-30-07_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-09-27</time>
+			<size>62</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>272</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-25-23-59-49_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-02-04</time>
+			<size>93</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>409</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-16-17-59-42_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-06-11</time>
+			<size>79</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>325</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-02-23-18-55-30_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-09-07</time>
+			<size>66</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>287</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-09-07-15-25-54_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-06-10</time>
+			<size>44</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>195</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-04-28-23-10-39_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2017-05-29</time>
+			<size>29</size>
+			<DU_grain>BN</DU_grain>
+			<weight>88</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-03-22-25-05_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2019-05-31</time>
+			<size>65</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>270</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-04-20-10-21-44_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-12-08</time>
+			<size>80</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>353</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-18-11-04-09_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-10-11</time>
+			<size>52</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>230</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-07-21-17-59-26_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-12-17</time>
+			<size>85</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>372</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-09-09-13-53-58_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-12-23</time>
+			<size>73</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>324</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-08-17-09-19-32_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2016-10-05</time>
+			<size>64</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>261</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-10-31-22-59-21_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2019-08-13</time>
+			<size>65</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>284</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-11-04-09-51-12_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2021-07-21</time>
+			<size>72</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>312</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-05-14-21-20-32_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2021-09-23</time>
+			<size>77</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>336</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-03-11-13-54-53_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-04-02</time>
+			<size>58</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>253</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-12-12-18-34-46_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-07-22</time>
+			<size>64</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>262</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-10-22-14-30-10_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-06-07</time>
+			<size>31</size>
+			<DU_grain>BN</DU_grain>
+			<weight>93</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-07-10-20-47-37_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-10-02</time>
+			<size>78</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>339</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-08-08-12-36-58_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2016-07-23</time>
+			<size>4</size>
+			<DU_grain>IM</DU_grain>
+			<weight>11</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-07-10-21-35-33_10_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-01-02</time>
+			<size>62</size>
+			<DU_grain>BN</DU_grain>
+			<weight>188</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-03-19-13-08_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-10-20</time>
+			<size>77</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>334</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-05-15-15-24-06_9_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2019-01-02</time>
+			<size>89</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>391</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-13-17-51-20_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-07-25</time>
+			<size>72</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>312</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-09-19-02-42_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-10-14</time>
+			<size>79</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>345</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-07-31-22-46-25_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-03-30</time>
+			<size>69</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>303</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-10-02-13-27-42_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-08-04</time>
+			<size>76</size>
+			<DU_grain>AP</DU_grain>
+			<weight>349</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-08-13-11-39-49_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2021-04-01</time>
+			<size>103</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>449</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-10-13-19-51-46_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-08-26</time>
+			<size>67</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>291</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-03-22-03-07_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-12-04</time>
+			<size>82</size>
+			<DU_grain>SD</DU_grain>
+			<weight>367</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-28-10-16-47_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-02-27</time>
+			<size>66</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>287</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-06-13-22-38-15_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-04-22</time>
+			<size>78</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>344</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-13-17-53-28_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2019-07-09</time>
+			<size>70</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>307</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-03-18-32-19_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-01-03</time>
+			<size>58</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>253</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-04-16-17-04-16_9_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-03-05</time>
+			<size>60</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>262</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-17-17-11-57_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-09-15</time>
+			<size>36</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>162</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-03-20-16-01-33_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2021-02-24</time>
+			<size>11</size>
+			<DU_grain>IM</DU_grain>
+			<weight>33</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-27-15-22-29_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-04-16</time>
+			<size>65</size>
+			<DU_grain>HD</DU_grain>
+			<weight>281</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-11-11-23-52-12_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2019-02-17</time>
+			<size>71</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>311</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-26-18-46-42_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-11-11</time>
+			<size>66</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>287</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-09-21-52-04_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-04-07</time>
+			<size>69</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>302</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-05-16-43-09_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-05-25</time>
+			<size>63</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>278</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-09-11-21-04-47_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-01-09</time>
+			<size>7</size>
+			<DU_grain>IM</DU_grain>
+			<weight>22</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-10-04-08-02-31_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2021-04-11</time>
+			<size>12</size>
+			<DU_grain>IM</DU_grain>
+			<weight>38</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-13-17-42-44_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-07-14</time>
+			<size>63</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>276</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-07-08-20-07-56_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2016-07-24</time>
+			<size>10</size>
+			<DU_grain>IM</DU_grain>
+			<weight>30</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-05-11-15-52-59_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-05-24</time>
+			<size>70</size>
+			<DU_grain>AP</DU_grain>
+			<weight>319</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-02-22-23-28-11_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-03-07</time>
+			<size>4</size>
+			<DU_grain>IM</DU_grain>
+			<weight>11</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-02-26-18-52-02_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-11-24</time>
+			<size>76</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>333</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-11-05-23-55-19_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-11-29</time>
+			<size>74</size>
+			<DU_grain>SD</DU_grain>
+			<weight>333</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-03-07-22-51-54_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-05-10</time>
+			<size>56</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>246</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-05-09-59-31_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2019-11-10</time>
+			<size>17</size>
+			<DU_grain>IM</DU_grain>
+			<weight>51</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-11-18-12-59-34_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2021-07-31</time>
+			<size>55</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>243</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-08-10-20-03-19_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-10-13</time>
+			<size>62</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>269</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-01-30-16-31-29_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2017-07-23</time>
+			<size>76</size>
+			<DU_grain>MY</DU_grain>
+			<weight>335</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-03-20-23-56-18_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-07-01</time>
+			<size>65</size>
+			<DU_grain>AP</DU_grain>
+			<weight>300</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-08-27-21-36-38_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-03-31</time>
+			<size>67</size>
+			<DU_grain>HD</DU_grain>
+			<weight>285</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-12-23-12-48-20_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2017-09-10</time>
+			<size>6</size>
+			<DU_grain>IM</DU_grain>
+			<weight>18</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-06-20-23-00-18_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-10-20</time>
+			<size>14</size>
+			<DU_grain>IM</DU_grain>
+			<weight>43</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-03-05-20-08-36_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2020-09-18</time>
+			<size>6</size>
+			<DU_grain>IM</DU_grain>
+			<weight>18</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-05-23-23-40-48_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-08-30</time>
+			<size>43</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>189</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-07-19-12-10-12_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2018-08-16</time>
+			<size>69</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>302</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-11-25-13-07-16_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2021-10-17</time>
+			<size>78</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>339</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-08-09-18-49-42_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-05-10</time>
+			<size>70</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>309</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-08-31-19-23-23_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-07-01</time>
+			<size>63</size>
+			<DU_grain>AP</DU_grain>
+			<weight>291</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-03-11-09-17-30_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>USA</location>
+			<time>2019-02-11</time>
+			<size>6</size>
+			<DU_grain>IM</DU_grain>
+			<weight>17</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-11-09-12-38-08_2_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2021-10-09</time>
+			<size>67</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>294</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-03-27-10-40-23_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-06-14</time>
+			<size>88</size>
+			<DU_grain>MY</DU_grain>
+			<weight>387</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-22-12-29-14_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2019-03-24</time>
+			<size>49</size>
+			<DU_grain>F&amp;S</DU_grain>
+			<weight>204</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-08-11-16-31-56_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-10-04</time>
+			<size>46</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>203</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-01-20-13-16-31_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-10-23</time>
+			<size>63</size>
+			<DU_grain>AP</DU_grain>
+			<weight>293</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-01-24-08-47-54_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-05-13</time>
+			<size>70</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>308</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-08-13-09-58-52_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-08-29</time>
+			<size>53</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>229</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2020-11-11-20-50-02_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-07-19</time>
+			<size>63</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>276</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-29-15-20-40_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-01-17</time>
+			<size>54</size>
+			<DU_grain>BN</DU_grain>
+			<weight>161</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-02-11-12-09-49_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2016-07-31</time>
+			<size>92</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>401</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-06-12-23-58-46_0_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2017-05-06</time>
+			<size>74</size>
+			<DU_grain>SD</DU_grain>
+			<weight>334</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-05-29-20-07-33_1_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-01-14</time>
+			<size>67</size>
+			<DU_grain>SD</DU_grain>
+			<weight>299</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-11-06-15-55-05_4_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>USA</location>
+			<time>2021-02-27</time>
+			<size>4</size>
+			<DU_grain>IM</DU_grain>
+			<weight>13</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-04-26-09-07-08_6_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-07-15</time>
+			<size>92</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>402</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-10-02-20-06-07_5_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2020-01-01</time>
+			<size>58</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>256</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2022-01-13-09-06-31_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2018-10-12</time>
+			<size>65</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>286</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-08-02-23-40-12_3_p600s</ID>
+			<species>maize</species>
+			<sub-species>dent corn</sub-species>
+			<location>CN</location>
+			<time>2019-02-15</time>
+			<size>77</size>
+			<DU_grain>NOR</DU_grain>
+			<weight>338</weight>
+		</object>
+		<object>
+			<ID>Grainset_maize_2021-01-20-21-30-31_7_p600s</ID>
+			<species>maize</species>
+			<sub-species>popped corn</sub-species>
+			<location>CN</location>
+			<time>2020-01-23</time>
+			<size>66</size>
+			<DU_grain>MY</DU_grain>
+			<weight>293</weight>
+		</object>
+	</annotation>
