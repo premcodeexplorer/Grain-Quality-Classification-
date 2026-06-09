@@ -1,0 +1,14 @@
+.idea/
+__pycache__/
+*.pyc
+tiny_data/
+full_data/
+*.pth
+.venv3.1/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+results/final_results/
+*.zip
+count.py
